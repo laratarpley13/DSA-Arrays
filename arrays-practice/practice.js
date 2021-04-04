@@ -24,4 +24,5 @@ class Array {
         this._capacity = size;
     }
 }
-Array.SIZE_RATIO = 3;
+
+module.exports = Array;
